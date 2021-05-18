@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=slice&color=5433FF&height=300&section=header&text=JiEun%20Song&fontSize=90" />
 
 <h3 align="center">🛠Tech Stack🛠</h3>
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<p align="cebter">
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/css3-#1572B6?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+</p>
