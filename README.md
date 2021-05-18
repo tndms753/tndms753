@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="cebter">
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-#1572B6?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
