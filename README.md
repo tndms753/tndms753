@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **tndms753/tndms753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f7f5f5&height=300&section=header&text=Hi%20there&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=282829&height=300&section=header&text=Hi%20there&fontSize=90" />
