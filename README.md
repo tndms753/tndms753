@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn) -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=5433FF&height=300&section=header&text=JiEun%20Song&fontSize=90" />
 
 <h3 align="center">🛠Tech Stack🛠</h3>
