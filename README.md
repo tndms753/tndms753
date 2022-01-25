@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 ### :mailbox_with_mail: Contacts
 - 📮  **Fomagran's email …**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tndms9239@gmail.com)](mailto:tndms9239@gmail.com)  
 
-- 📒  **Fomagran's blog …** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/jieunnotion/MUKBBANG-4a8a3283678842c98cc33db3c4572dc6)](https://www.notion.so/jieunnotion/MUKBBANG-4a8a3283678842c98cc33db3c4572dc6)
+<!-- - 📒  **Fomagran's blog …** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/jieunnotion/MUKBBANG-4a8a3283678842c98cc33db3c4572dc6)](https://www.notion.so/jieunnotion/MUKBBANG-4a8a3283678842c98cc33db3c4572dc6) -->
