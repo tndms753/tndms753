@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn) -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=5433FF&height=300&section=header&text=JiEun%20Song&fontSize=90" /> -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=F4BBBB&height=300&section=header&text=JiEun%20Song&fontSize=90&animation=blinking)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=JiSu%20Song&animation=blinking&color=feac5e&fontColor=ffffff) -->
+
+
 <h4 align="center" margin-top="30px">🛠Tech Stack🛠</h4>
 
 <p align="center">
@@ -25,11 +31,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <!-- ![](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white) -->
 </p>
-
-<!-- ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn) -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=5433FF&height=300&section=header&text=JiEun%20Song&fontSize=90" /> -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=F4BBBB&height=300&section=header&text=JiEun%20Song&fontSize=90&animation=blinking)
-<!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=JiSu%20Song&animation=blinking&color=feac5e&fontColor=ffffff) -->
 
 <!-- ### Hi there 👋   
 
