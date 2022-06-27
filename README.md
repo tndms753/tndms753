@@ -14,6 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h4 align="center" margin-top="30px">🛠Tech Stack🛠</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<!-- ![](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white) -->
+</p>
+
 <!-- ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn) -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=5433FF&height=300&section=header&text=JiEun%20Song&fontSize=90" /> -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F4BBBB&height=300&section=header&text=JiEun%20Song&fontSize=90&animation=blinking)
@@ -32,18 +44,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-
-<h4 align="center" margin-top="30px">🛠Tech Stack🛠</h4>
-
-<p align="center">
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<!-- ![](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white) -->
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tndms753)](https://github.com/anuraghazra/github-readme-stats)
 
