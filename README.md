@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 
 <h4 align="center" margin-top="30px">🛠Tech Stack🛠</h4>
+<hr />
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
