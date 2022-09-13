@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <!-- ![](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white) -->
-<img src="https://img.shields.io/badge/graphql-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
 
 <!-- ### Hi there 👋   
