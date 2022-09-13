@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=SONG%20JIEUN&fontSize=70" />
 <br/>
-<br/>
 
 <h4 align="center" margin-top="30px">🛠Tech Stack🛠</h4>
 
