@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://capsule-render.vercel.app/api?type=Transparent&color=color=a82da8&height=200&section=header&text=SONG%20JIEUN&fontSize=70" />
-<img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=200&section=header&text=SONG%20JIEUN&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=SONG%20JIEUN&fontSize=70" />
 <br/>
 <br/>
 
