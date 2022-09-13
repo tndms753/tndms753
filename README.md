@@ -4,16 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn) -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=5433FF&height=300&section=header&text=JiEun%20Song&fontSize=90" /> -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F4BBBB&height=300&section=header&text=JiEun%20Song&fontSize=90)
@@ -24,13 +14,6 @@ Here are some ideas to get you started:
 <h4 align="center" margin-top="30px">🛠Tech Stack🛠</h4>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp -->
-<!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp -->
-<!-- <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp -->
-<!-- ![](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white) -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -58,9 +41,6 @@ Here are some ideas to get you started:
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tndms753)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :mailbox_with_mail: Contacts
 - 📮  **Fomagran's email …**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tndms9239@gmail.com)](mailto:tndms9239@gmail.com)  
 
-<!-- - 📒  **Fomagran's blog …** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/jieunnotion/MUKBBANG-4a8a3283678842c98cc33db3c4572dc6)](https://www.notion.so/jieunnotion/MUKBBANG-4a8a3283678842c98cc33db3c4572dc6) -->
