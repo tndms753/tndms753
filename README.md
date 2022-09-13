@@ -5,11 +5,8 @@
 Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn) -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=5433FF&height=300&section=header&text=JiEun%20Song&fontSize=90" /> -->
-<p align="center">
-![header](https://capsule-render.vercel.app/api?type=slice&color=F4BBBB&height=300&section=header&text=JiEun%20Song&fontSize=90)
-</p>
-<!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=JiSu%20Song&color=feac5e&fontColor=ffffff) -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=5433FF&height=300&section=header&text=JiEun%20Song&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=slice&color=F4BBBB&height=300&section=header&text=SONG JI EUN%20Song&fontSize=90)
 <br/>
 <br/>
 
