@@ -23,14 +23,16 @@ Here are some ideas to get you started:
 <h4 align="center" margin-top="30px">🛠Tech Stack🛠</h4>
 
 <p align="center">
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<!-- <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <!-- ![](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white) -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=GraphQL&logoColor=white">
 </p>
 
 <!-- ### Hi there 👋   
