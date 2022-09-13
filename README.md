@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=F4BBBB&height=200&section=header&text=SONG JI EUN%20Song&fontSize=90) -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=white&height=200&section=header&text=SONG%20JIEUN&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=white&height=200&section=header&text=SONGJIEUN&fontSize=90" />
 <br/>
 <br/>
 
