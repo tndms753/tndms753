@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 
 <h4 align="center" margin-top="30px">🛠Tech Stack🛠</h4>
-<hr />
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -40,6 +39,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
+
+<hr />
 
 <!-- ### Hi there 👋   
 
