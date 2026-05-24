@@ -186,13 +186,4 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftndms753%2Fhit-counter&count_bg=%23A82DA8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/tndms753?style=social">
-</p>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a82da8&height=120&section=footer" />
