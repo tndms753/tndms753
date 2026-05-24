@@ -187,22 +187,4 @@
 
 <br/>
 
-<h3 align="center">🚀 What I Can Do</h3>
-
-<p align="center">
-  Frontend Web Development<br/>
-  Mobile App Development with React Native & Flutter<br/>
-  Desktop App Development with Electron<br/>
-  Backend API Design & Development with Spring Boot and Node.js<br/>
-  Database Structure Design & ERD Modeling<br/>
-  AWS Cloud Infrastructure Setup<br/>
-  Service Architecture Planning
-</p>
-
-<br/>
-
----
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a82da8&height=120&section=footer" />
