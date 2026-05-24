@@ -6,14 +6,14 @@
 
 <p align="center">
   Frontend-focused Full-Stack Developer<br/>
-  capable of designing user interfaces, backend APIs, database structures, and AWS cloud infrastructure.
+  capable of building Web, Mobile App, Desktop App, Backend APIs, Database Architecture, and AWS Cloud Infrastructure.
 </p>
 
 <br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-FF69B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Mobile%20App%20Developer-02569B?style=for-the-badge">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-764ABC?style=for-the-badge">
 </p>
 
@@ -27,8 +27,9 @@
 
 <p align="center">
   사용자 경험을 깊이 이해하는 Frontend Developer입니다.<br/>
-  현재는 Backend, Database Architecture, AWS Infrastructure까지 확장하며<br/>
-  안정적이고 확장 가능한 웹 서비스를 설계하고 개발하는 Full-Stack Developer로 성장하고 있습니다.
+  Web, Mobile App, Desktop App 개발 역량을 기반으로<br/>
+  Backend, Database Architecture, AWS Infrastructure까지 확장하며<br/>
+  안정적이고 확장 가능한 서비스를 설계하고 개발하는 Full-Stack Developer로 성장하고 있습니다.
 </p>
 
 <br/>
@@ -51,13 +52,42 @@
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+</p>
+
+<br/>
+
+<h4 align="center">State Management & Styling</h4>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge">
   <br/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white">
+  <br/>
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/Emotion-C43BAD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+
+<br/>
+
+<h4 align="center">Mobile App & Desktop App</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
+  <img src="https://img.shields.io/badge/Cross--Platform%20App-4B32C3?style=for-the-badge">
 </p>
 
 <br/>
@@ -65,6 +95,14 @@
 <h4 align="center">Backend</h4>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge">
+  <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
@@ -89,11 +127,14 @@
   <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <br/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge">
+  <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge">
 </p>
 
 <br/>
@@ -113,6 +154,10 @@
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge">
   <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge">
   <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge">
+  <br/>
+  <img src="https://img.shields.io/badge/Load%20Balancer-8C4FFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Auto%20Scaling-FF9900?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge">
 </p>
 
 <br/>
@@ -140,8 +185,9 @@
 
 <p align="center">
   Frontend Web Development<br/>
-  Responsive UI / UX Implementation<br/>
-  Backend API Design & Development<br/>
+  Mobile App Development with React Native & Flutter<br/>
+  Desktop App Development with Electron<br/>
+  Backend API Design & Development with Spring Boot and Node.js<br/>
   Database Structure Design & ERD Modeling<br/>
   AWS Cloud Infrastructure Setup<br/>
   Service Architecture Planning
