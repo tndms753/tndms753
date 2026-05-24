@@ -26,10 +26,15 @@
 <h3 align="center">✨ About Me ✨</h3>
 
 <p align="center">
-  사용자 경험을 깊이 이해하는 Frontend Developer입니다.<br/>
-  Web, Mobile App, Desktop App 개발 역량을 기반으로<br/>
-  Backend, Database Architecture, AWS Infrastructure까지 확장하며<br/>
-  안정적이고 확장 가능한 서비스를 설계하고 개발하는 Full-Stack Developer로 성장하고 있습니다.
+  안정적이고 확장 가능한 서비스를 설계하고 개발하는 Full-Stack Developer입니다.<br/>
+  Web, Mobile App, Desktop App 개발부터 Backend API, Database Architecture, AWS Infrastructure까지<br/>
+  서비스 전반의 구조를 이해하고 구현하는 개발자로 성장하고 있습니다.
+</p>
+
+<p align="center">
+  I am a Full-Stack Developer who builds scalable and reliable digital services.<br/>
+  From Web, Mobile App, and Desktop App development to Backend APIs, Database Architecture, and AWS Infrastructure,<br/>
+  I focus on designing and developing services with a strong understanding of the entire product architecture.
 </p>
 
 <br/>
