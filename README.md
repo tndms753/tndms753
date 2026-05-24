@@ -204,22 +204,6 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tndms753&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tndms753&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<br/>
-
----
-
-<br/>
-
 <h3 align="center">📫 Contacts</h3>
 
 <p align="center">
