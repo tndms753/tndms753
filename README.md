@@ -205,42 +205,4 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tndms753&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tndms753&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<h3 align="center">📫 Contacts</h3>
-
-<p align="center">
-  <a href="mailto:tndms9239@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/tndms753">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftndms753%2Fhit-counter&count_bg=%23A82DA8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/tndms753?style=social">
-</p>
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a82da8&height=120&section=footer" />
